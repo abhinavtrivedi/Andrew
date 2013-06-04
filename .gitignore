@@ -1,0 +1,30 @@
+# Build Files
+*.apk
+*.ap_
+*.jar
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+classes/
+gen-external-apklibs/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.metadata
+.settings
+
+# OSX files
+.DS_Store
+
+# files for the dex VM
+*.dex
+
+
